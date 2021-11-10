@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a new bug report
 labels: bug
-projects: cmpt371-test/1
+projects: 2
 ---
 
 # Bug Report
