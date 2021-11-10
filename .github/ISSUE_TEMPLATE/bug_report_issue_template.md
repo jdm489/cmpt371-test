@@ -1,7 +1,6 @@
 ---
 name: Bug Report
-about: Create bug report
-title: [BUG NAME]
+about: Create a new bug report
 labels: bug
 project: Triage
 ---
