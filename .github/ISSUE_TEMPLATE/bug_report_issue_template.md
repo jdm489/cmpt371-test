@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a new bug report
 labels: bug
-project: Triage
+project: 1
 ---
 
 # Bug Report
