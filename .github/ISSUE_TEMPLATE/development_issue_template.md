@@ -1,7 +1,6 @@
 ---
 name: Development
-about: Create development task
-title: [FEATURE NAME]
+about: Create a new development task
 labels: development
 project: Development
 ---
